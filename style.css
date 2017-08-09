@@ -22,5 +22,34 @@ button {
 }
 button:hover {
   color: white;
-  background: #305e59;
+  background-color:  purple;
+}
+
+#pink {
+  background-color: blue;
+}
+
+#pink:hover {
+  background-color: red;
+}
+#blue {
+  background-color: blue;
+}
+
+#blue:hover {
+  background-color: red;
+}
+#fadeaway {
+  background-color: blue;
+}
+
+#fadeway:hover {
+  background-color: red;
+}
+#lottery {
+  background-color: blue;
+}
+
+#lottery:hover {
+  background-color: red;
 }
