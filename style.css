@@ -24,3 +24,10 @@ button:hover {
   color: white;
   background: #305e59;
 }
+
+#pink{
+  background-color: blue;
+}
+#pink:hover {
+  background-color:red;
+}
