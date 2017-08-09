@@ -24,3 +24,15 @@ button:hover {
   color: white;
   background: #305e59;
 }
+
+#blue {
+  background-color: red;
+}
+
+#blue:hover {
+  background-color: blue;
+}
+
+#fadeDiv {
+  background-color: blue;
+}
