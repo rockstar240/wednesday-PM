@@ -22,5 +22,37 @@ button {
 }
 button:hover {
   color: white;
-  background: #305e59;
+  background: grey;
+}
+#pink{
+  background-color: green
+}
+
+#pink:hover {
+  background-color: red;  
+}
+
+#blue{
+  background-color: blue
+}
+#fade-away{
+  background-color: red
+}
+#the-lottery-is-yours{
+  background-color: orange
+}
+#puppy-yay{
+  background-color: yellow
+}
+#please-replace-me{
+  background-color: brown
+}
+#old-enough-to-drive{
+  background-color: red
+}
+#you-choose{
+  background-color: orange
+}
+#confirm-da-stuf{
+  background-color: blue
 }
